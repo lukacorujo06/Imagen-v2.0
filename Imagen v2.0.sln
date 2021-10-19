@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imagen v2.0", "Imagen v2.0\Imagen v2.0.csproj", "{B4B093A1-AA69-4AB2-87B9-F6F9FEA9A7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B093A1-AA69-4AB2-87B9-F6F9FEA9A7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B093A1-AA69-4AB2-87B9-F6F9FEA9A7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B093A1-AA69-4AB2-87B9-F6F9FEA9A7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B093A1-AA69-4AB2-87B9-F6F9FEA9A7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

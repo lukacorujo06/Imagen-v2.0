@@ -1,0 +1,7 @@
+C:\Users\LAB03\Documents\SharpDevelop Projects\Imagen v2.0\Imagen v2.0\obj\Debug\Imagen v2.0.csprojResolveAssemblyReference.cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\Imagen v2.0\Imagen v2.0\obj\Debug\Imagen_v2._.MainForm.resources
+C:\Users\LAB03\Documents\SharpDevelop Projects\Imagen v2.0\Imagen v2.0\obj\Debug\Imagen v2.0.csproj.GenerateResource.Cache
+C:\Users\LAB03\Documents\SharpDevelop Projects\Imagen v2.0\Imagen v2.0\bin\Debug\Imagen v2.0.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\Imagen v2.0\Imagen v2.0\bin\Debug\Imagen v2.0.pdb
+C:\Users\LAB03\Documents\SharpDevelop Projects\Imagen v2.0\Imagen v2.0\obj\Debug\Imagen v2.0.exe
+C:\Users\LAB03\Documents\SharpDevelop Projects\Imagen v2.0\Imagen v2.0\obj\Debug\Imagen v2.0.pdb
